@@ -1,7 +1,7 @@
 import React from 'react'
 import MarketingApp from './components/MarketingApp';
 function App() {
-  console.log('testig')
+  console.log('testimg')
   return (
     <div>
         <h1 style={{textAlign:'center', color:'red'}}>Hi there!</h1>
